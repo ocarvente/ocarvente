@@ -12,4 +12,4 @@ Here are some ideas to get you started:
  💬 Ask me about Javascript/Ruby <br />
  📫 How to reach me: oscar.carvente@gmail.com <br />
  😄 Pronouns: He/Him <br />
- ⚡ Fun fact: I love both footballs! 🏈 ⚽ <br />
+ ⚡ Fun fact: I used to be a high school math teacher <br />
