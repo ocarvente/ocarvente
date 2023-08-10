@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 -->
 
- 🌱 I’m currently learning Canvas API<br />
+ 🌱 I’m currently learning Canvas API And React-Router-Dom<br />
  💬 Ask me about Javascript/Ruby <br />
  📫 How to reach me: oscar.carvente@gmail.com <br />
  😄 Pronouns: He/Him <br />
