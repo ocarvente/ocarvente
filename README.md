@@ -8,8 +8,10 @@ Here are some ideas to get you started:
 
 -->
 
- 🌱 I’m currently learning Canvas API And React-Router-Dom<br />
- 💬 Ask me about Javascript/Ruby <br />
- 📫 How to reach me: oscar.carvente@gmail.com <br />
+ 🔭 I’m currently working on Play-Sheet-IO<br />
+
+ 🌱 I am currently learning about Canvas API and React-Router-Dom<br />
+
  😄 Pronouns: He/Him <br />
- ⚡ Fun fact: I used to be a high school math teacher <br />
+
+ ⚡ Fun fact: I used to be a high school math teacher! <br />
